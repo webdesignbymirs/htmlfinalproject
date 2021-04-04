@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>My Second Page</title>
+    </head>
+    <body> 
+        <main><p> THIS IS SECOND OF MY MAIN CODE PAGE</p></main>
+        <footer>
+            <p>I think I'm beginning to get the hang of this... footer</p>
+        </footer>
+    </body>
+    </html>
